@@ -1,4 +1,4 @@
-* Exploit Title: SEMCMS SHOP 1.1 -   SQL injection 
+* Exploit Title: SEMCMS SHOP 1.1 -  Cross-site scripting vulnerability
 
 * Vendor Homepage:https://www.sem-cms.cn/wenda/
 
@@ -6,8 +6,6 @@
 
 * Version: 1.1
 
-* Vulnerable file:Ant_Global.php 
-![iamge]()  
-* SQL injection
-![iamge]()    
-![iamge]()
+* Vulnerable Vulnerability proof
+![iamge](https://github.com/BigTiger2020/SCSHOP/blob/main/xss-1.png)  
+

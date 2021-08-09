@@ -1,4 +1,4 @@
-* Exploit Title: SEMCMS SHOP 1.1 -   SQL injection 
+* Exploit Title: SEMCMS SHOP 1.1 -   Cross-site scripting vulnerability
 
 * Vendor Homepage:https://www.sem-cms.cn/wenda/
 

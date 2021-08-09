@@ -9,5 +9,5 @@
 * Vulnerable file:Ant_Message.php 
 ![iamge](https://github.com/BigTiger2020/SCSHOP/blob/main/sql-7.png)  
 * SQL injection
-![iamge](https://github.com/BigTiger2020/SCSHOP/blob/main/sql-5.png)    
-![iamge](https://github.com/BigTiger2020/SCSHOP/blob/main/sql-6.png)
+![iamge](https://github.com/BigTiger2020/SCSHOP/blob/main/sql-8.png)    
+![iamge](https://github.com/BigTiger2020/SCSHOP/blob/main/sql-9.png)

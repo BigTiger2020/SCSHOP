@@ -6,8 +6,6 @@
 
 * Version: 1.1
 
-* Vulnerable file:Ant_Global.php 
-![iamge]()  
-* SQL injection
-![iamge]()    
-![iamge]()
+* Vulnerability proof
+![iamge](https://github.com/BigTiger2020/SCSHOP/blob/main/xss-2.png)  
+
